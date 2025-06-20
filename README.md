@@ -1,71 +1,65 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Kevine
 
-# Moi c'est Kevine !
-
-Développeur web & mobile fullstack, je transforme le café en code propre et les idées complexes en applications simples et performantes.
-
-🎯 **Actuellement en recherche d'alternance à partir d’octobre 2025**, dans le cadre de ma formation **CDA (Concepteur Développeur d’Applications)**, je souhaite rejoindre une équipe qui valorise la qualité du code, la collaboration et l'impact.
-
-💼 En parallèle, je monte en compétence sur des projets concrets — côté client, côté produit, côté fun.  
-🎥 Et je partage les hauts (et les galères) du métier avec **[DevEnGalère](https://www.tiktok.com/@dev_en_galere)**, un projet multi-plateforme mêlant humour, pédagogie tech et authenticité.
-
-> 🧩 Mon but ? Créer des ponts entre les besoins des utilisateurs et des solutions techniques solides, utiles et accessibles.
+**Développeur Web & Mobile | Créateur de solutions à impact**
 
 ---
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Kevine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gastsar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Kevine's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastsar&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+🚀 **En recherche d’alternance CDA (Concepteur Développeur d’Applications) dès octobre 2025**  
+🎥 **Créateur de contenus tech & humour sur [DevEnGalère](https://www.tiktok.com/@dev_en_galere)**  
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/yvesnarsonkevine/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-    </a>
-    <a href="https://www.telolabz.com" target="_blank">
-        <img src="https://img.shields.io/badge/TeloLabz-Studio_Freelance-222?style=for-the-badge&logo=gatsby&logoColor=white" alt="TeloLabz Website"/>
-    </a>
-    <a href="https://www.tiktok.com/@dev_en_galere" target="_blank">
-        <img src="https://img.shields.io/badge/DevEnGalère-Humour_Dev-E63946?style=for-the-badge&logo=tiktok&logoColor=white" alt="DevEnGalère Socials"/>
-    </a>
-</p>
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gastsar&color=blueviolet" alt="Profile views" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/yvesnarsonkevine/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@dev_en_galere" target="_blank">
+    <img src="https://img.shields.io/badge/DevEnGalère-Humour_Dev-E63946?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="mailto:yvesnarsonkevine@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-Mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Ce que je construis
+## ✨ À propos
 
-Voici un aperçu de projets concrets que j’ai conçus pour résoudre des besoins réels, avec une attention particulière portée à l’UX, la performance et l’utilité.
+Développeur web & mobile passionné, j'utilise **TypeScriptt**, **React**, **Next.js**, et **Astro.js** côté frontend, ainsi qu’en **PHP** et **Laravel** côté backend.  
+Je m’intéresse aussi à **Docker**, à l’**éco-conception**, culture **DevOps**, et à tout ce qui permet de construire des applications robustes, performantes et durables.
+
+J'étais en poste chez **Easytri**, j’intervenais principalement sur l’espace client et les outils internes de gestion. En parallèle, je développe ma marque personnelle **DevEnGalère**, un projet qui mêle humour, pédagogie et retours d’expérience sur la vie de dev.
+
+---
+
+## 🚀 Projets récents
 
 | Projet | Description | Stack | Statut |
 |---|---|---|---|
-| **🌐 Kanto.mg** | Plateforme de valorisation de l’artisanat malgache. Mise en relation directe et éthique. | `Next.js`, `Supabase`, `Tailwind`, `PostgreSQL` | En ligne |
-| **🧭 Portfolio interactif** | Vitrine immersive, rapide et animée de mes compétences, projets et contenus. | `Next.js`, `Framer Motion`, `ShadCN`, `Tailwind CSS` | En ligne |
-| **🚀 TeloLabz.com** | Studio freelance tech : services, automatisations, projets sur-mesure. | `Astro.js`, `Markdown`, `Tailwind`, `Vercel` | En ligne |
-| **🧩 Extension “Mots-Clés Finder”** | Extension navigateur SEO & rédaction : détection automatique de mots-clés. | `JavaScript`, `Manifest v3`, `DOM Parsing` | En production |
-| **📌 Extension “Rappel Intelligent”** | Sauvegarde + rappels personnalisés de pages web, notifications automatiques. | `JavaScript`, `Chrome API`, `IndexedDB` | En test |
+| [🌐 **Kanto.mg**](https://kanto.mg) | Plateforme qui valorise l’artisanat malgache et favorise des échanges directs et éthiques. | Next.js, Supabase, Tailwind, PostgreSQL | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
+| [🧭 **Portfolio interactif**](https://tonportfolio.com) | Vitrine immersive et animée de mes compétences et réalisations. | Next.js, Framer Motion, ShadCN, Tailwind CSS | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
+| [🚀 **TeloLabz.com**](https://telolabz.com) | Studio freelance : automatisations, services tech et projets sur mesure. | Astro.js, Markdown, Tailwind, Vercel | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
+| **🧩 Extension “Mots-Clés Finder”** | Extension SEO/rédaction, détection automatique de mots-clés. | JavaScript, Manifest v3, DOM Parsing | ![Production](https://img.shields.io/badge/production-blue?style=flat-square) |
+| **📌 Extension “Rappel Intelligent”** | Sauvegarde et rappels personnalisés de pages web, notifications automatisées. | JavaScript, Chrome API, IndexedDB | ![En test](https://img.shields.io/badge/en%20test-yellow?style=flat-square) |
 
 ---
 
-## 🧰 Ma stack préférée
+## 🛠️ Stack et outils
 
-Ma stack est choisie pour sa robustesse, sa flexibilité et sa capacité à livrer des projets solides rapidement.
-
-| Frontend | Backend | Outils & Infra |
-|---|---|---|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-
----
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ## 📌 En ce moment, je travaille sur...
 
