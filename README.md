@@ -1,6 +1,6 @@
-# 👋 Salut, moi c’est Kevine
+# 👋 Salut, c’est Kevine
 
-**Développeur Web & Mobile | Créateur de solutions à impact**
+**Développeur Web & Mobile **
 
 ---
 
@@ -26,7 +26,7 @@
 ## ✨ À propos
 
 Développeur web & mobile passionné, j'utilise **TypeScriptt**, **React**, **Next.js**, et **Astro.js** côté frontend, ainsi qu’en **PHP** et **Laravel** côté backend.  
-Je m’intéresse aussi à **Docker**, à l’**éco-conception**, culture **DevOps**, et à tout ce qui permet de construire des applications robustes, performantes et durables.
+Je m’intéresse à l’**éco-conception**, culture **DevOps**, et à tout ce qui permet de construire des applications robustes, performantes et durables.
 
 J'étais en poste chez **Easytri**, j’intervenais principalement sur l’espace client et les outils internes de gestion. En parallèle, je développe ma marque personnelle **DevEnGalère**, un projet qui mêle humour, pédagogie et retours d’expérience sur la vie de dev.
 
@@ -39,8 +39,8 @@ J'étais en poste chez **Easytri**, j’intervenais principalement sur l’espac
 | [🌐 **Kanto.mg**](https://kanto.mg) | Plateforme qui valorise l’artisanat malgache et favorise des échanges directs et éthiques. | Next.js, Supabase, Tailwind, PostgreSQL | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
 | [🧭 **Portfolio interactif**](https://tonportfolio.com) | Vitrine immersive et animée de mes compétences et réalisations. | Next.js, Framer Motion, ShadCN, Tailwind CSS | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
 | [🚀 **TeloLabz.com**](https://telolabz.com) | Studio freelance : automatisations, services tech et projets sur mesure. | Astro.js, Markdown, Tailwind, Vercel | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
-| **🧩 Extension “Mots-Clés Finder”** | Extension SEO/rédaction, détection automatique de mots-clés. | JavaScript, Manifest v3, DOM Parsing | ![Production](https://img.shields.io/badge/production-blue?style=flat-square) |
-| **📌 Extension “Rappel Intelligent”** | Sauvegarde et rappels personnalisés de pages web, notifications automatisées. | JavaScript, Chrome API, IndexedDB | ![En test](https://img.shields.io/badge/en%20test-yellow?style=flat-square) |
+| **🧩 Extension “TriAuto des Téléchargements”** |Permet de classer automatiquement les fichiers téléchargés en fonction de leur type.| JavaScript, Manifest v3, DOM Parsing | ![Production](https://img.shields.io/badge/production-blue?style=flat-square) |
+| **📌 Extension “Focus Tab – Reste concentré et productif”** |Vous aide à rester concentré en floutant les sites distrayants pendant que vous travaillez.| JavaScript, Chrome API, IndexedDB |![Production](https://img.shields.io/badge/production-blue?style=flat-square) |
 
 ---
 
@@ -63,11 +63,11 @@ J'étais en poste chez **Easytri**, j’intervenais principalement sur l’espac
 
 ## 📌 En ce moment, je travaille sur...
 
-- [x] Certification **RNCP niveau 6 - React.js** (terminée en mai 2024)
+- [x] Certification **RNCP niveau 6 - React.js** (terminée en en Octobre 2025)
 - [ ] Formation CDA (Concepteur Développeur d’Applications) en alternance (dès octobre 2025)
 - [ ] V2 de TeloLabz : refonte UX + automatisations
 - [ ] Nouvelle série vidéo **DevEnGalère** sur YouTube
-- [ ] Apprentissage de **Go** pour des microservices backend performants
+- [ ] Apprentissage de **NodeJs** pour des microservices backend performants
 
 ---
 
