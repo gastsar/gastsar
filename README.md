@@ -1,103 +1,116 @@
-# 👋 Salut, c’est Kevine
+# 👋 Salut, c'est Kevine!
 
-**Développeur Web & Mobile **
-
----
-
-🚀 **En recherche d’alternance CDA (Concepteur Développeur d’Applications) dès octobre 2025**  
-🎥 **Créateur de contenus tech & humour sur [DevEnGalère](https://www.tiktok.com/@dev_en_galere)**  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Développeur+Full-Stack+%F0%9F%9A%80;Passionné+de+Tech+%F0%9F%92%BB;Créateur+d'Expériences+Digitales+✨" alt="Typing SVG" />
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yvesnarsonkevine/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@dev_en_galere" target="_blank">
-    <img src="https://img.shields.io/badge/DevEnGalère-Humour_Dev-E63946?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="mailto:yvesnarsonkevine@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contact-Mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🚀 À propos de moi
+
+```javascript
+const developpeur = {
+    nom: "YVES Narson Kevine",
+    localisation: "France 🇫🇷 -Toulouse",
+    role: "Développeur Full-Stack",
+    passions: ["Code", "Innovation", "Open Source"],
+    
+    getCurrentlyLearning: () => {
+        return ["React","React Native", "TypeScript", "DevOps"];
+    },
+    
+    askMeAbout: ["Web Dev", "Mobile Dev", "UI/UX", "Architecture"],
+    
+    funFact: "Je transforme le café en code depuis 2021 ☕"
+};
+```
 
 ---
 
-## ✨ À propos
+## 🛠️ Technologies & Outils
 
-Développeur web & mobile passionné, j'utilise **TypeScriptt**, **React**, **Next.js**, et **Astro.js** côté frontend, ainsi qu’en **PHP** et **Laravel** côté backend.  
-Je m’intéresse à l’**éco-conception**, culture **DevOps**, et à tout ce qui permet de construire des applications robustes, performantes et durables.
+<div align="center">
 
-J'étais en poste chez **Easytri**, j’intervenais principalement sur l’espace client et les outils internes de gestion. En parallèle, je développe ma marque personnelle **DevEnGalère**, un projet qui mêle humour, pédagogie et retours d’expérience sur la vie de dev.
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🚀 Projets récents
+### 🔧 Outils & Plateformes
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-| Projet | Description | Stack | Statut |
-|---|---|---|---|
-| [🌐 **Kanto.mg**](https://kanto.mg) | Plateforme qui valorise l’artisanat malgache et favorise des échanges directs et éthiques. | Next.js, Supabase, Tailwind, PostgreSQL | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
-| [🧭 **Portfolio interactif**](https://tonportfolio.com) | Vitrine immersive et animée de mes compétences et réalisations. | Next.js, Framer Motion, ShadCN, Tailwind CSS | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
-| [🚀 **TeloLabz.com**](https://telolabz.com) | Studio freelance : automatisations, services tech et projets sur mesure. | Astro.js, Markdown, Tailwind, Vercel | ![En ligne](https://img.shields.io/badge/en%20ligne-success?style=flat-square) |
-| **🧩 Extension “TriAuto des Téléchargements”** |Permet de classer automatiquement les fichiers téléchargés en fonction de leur type.| JavaScript, Manifest v3, DOM Parsing | ![Production](https://img.shields.io/badge/production-blue?style=flat-square) |
-| **📌 Extension “Focus Tab – Reste concentré et productif”** |Vous aide à rester concentré en floutant les sites distrayants pendant que vous travaillez.| JavaScript, Chrome API, IndexedDB |![Production](https://img.shields.io/badge/production-blue?style=flat-square) |
-
----
-
-## 🛠️ Stack et outils
-
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-## 📌 En ce moment, je travaille sur...
-
-- [x] Certification **RNCP niveau 6 - React.js** (terminée en en Octobre 2025)
-- [ ] Formation CDA (Concepteur Développeur d’Applications) en alternance (dès octobre 2025)
-- [ ] V2 de TeloLabz : refonte UX + automatisations
-- [ ] Nouvelle série vidéo **DevEnGalère** sur YouTube
-- [ ] Apprentissage de **NodeJs** pour des microservices backend performants
+</div>
 
 ---
 
-> [!IMPORTANT]  
-> **🎯 Mon objectif : collaborer avec des équipes humaines et des indépendants engagés.**  
-> Je m’épanouis dans des projets à impact, où la communication est claire et la qualité du code est une priorité.
+## 📊 Statistiques GitHub
 
-> [!TIP]  
-> **🧠 Ma vision du code : un levier au service de l’impact.**  
-> Coder, c’est résoudre des problèmes concrets avec intention.  
-> - **Accessibilité** : concevoir pour tous.  
-> - **Sobriété numérique** : optimiser sans surconsommer.  
-> - **Pédagogie** : rendre le technique compréhensible, utile et clair.
-
-> [!WARNING]  
-> **Ce que je ne fais pas :**  
-> Pas de projets  100% **No-Code** — je privilégie les bases solides, scalables et maintenables.
-
-> [!NOTE]  
-> 💻 Je travaille principalement sous **Windows + WSL2**, avec des outils Linux à portée de terminal.  
-> 🎬 Et hors code, je crée des contenus DevEnGalère ou je peaufine mes workflows d'automatisation.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gastsar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastsar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+</div>
 
 ---
 
-## 📫 Me contacter
+## 🏆 Projets Phares
 
-Je suis ouvert à une alternance, un échange ou une future collaboration :
+<div align="center">
 
-- 📧 [**yvesnarsonkevine@gmail.com**](mailto:yvesnarsonkevine@gmail.com)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/yvesnarsonkevine/)
-- 🌐 [**Bento / Liens utiles**](https://bento.me/kevine-dev)
+[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=gastsar&repo=simplon-front&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)](https://github.com/gastsar/new-portfolio)
+[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=gastsar&repo=new-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)](https://github.com/gastsar/new-portfolio)
 
-**Hâte de rejoindre une aventure technique et humaine où je pourrai apporter mes compétences tout en continuant à apprendre.**
+</div>
+
+---
+
+## 📈 Activité & Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gastsar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🌟 Réalisations
+
+<div align="center">
+
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=gastsar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yvesnarsonkevine/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](kevine-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesnarsonkevine@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Merci%20pour%20votre%20visite%20!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Le code est de la poésie écrite pour les machines, mais lue par les humains."</i>
+</div>
